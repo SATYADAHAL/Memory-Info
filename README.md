@@ -1,5 +1,5 @@
 # Meminfo
-This is a simple program written in C that displays the memory info>
+This is a simple program written in C that displays the memory information.
 
 ## How to use it?<br>
 ##### Open terminal and type following commands:
