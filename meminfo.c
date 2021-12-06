@@ -87,6 +87,7 @@ int percentage(float total,float free)
 void sig_handler()
 {
 	system("setterm --cursor on");
+	system("stty echo && stty -cbreak");
 	exit(0);
 }
 int main()
