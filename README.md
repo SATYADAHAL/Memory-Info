@@ -13,3 +13,5 @@ This is a simple program written in C that displays the memory information.
 
 Use Ctrl+c to quit the program.<br>
 #### Note:This program will not work on Windows or Mac OS.
+### ScreentShot
+![](https://github.com/SATYADAHAL/Memory-Info/blob/main/Meminfo.png)
