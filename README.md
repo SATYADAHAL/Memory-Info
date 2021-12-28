@@ -1,5 +1,5 @@
 # Meminfo
-This is a simple program written in C that displays the memory information.
+#### This is a simple program written in C that displays the memory information.
 
 ## How to use it?<br>
 ##### Open terminal and type following commands:
@@ -11,7 +11,7 @@ This is a simple program written in C that displays the memory information.
 > <br>
 > ./meminfo<br>
 
-Use Ctrl+c to quit the program.<br>
+###### Use Ctrl+C to quit the program.<br>
 #### Note:This program will not work on Windows or Mac OS.
 ### ScreentShot
 ![](https://github.com/SATYADAHAL/Memory-Info/blob/main/Meminfo.png)
