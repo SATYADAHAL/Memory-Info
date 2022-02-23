@@ -7,7 +7,7 @@
 > <br>
 > cd C-Programming <br>
 > <br>
-> gcc meminfo.c -o meminfo<br>
+> gcc main.c -o meminfo<br>
 > <br>
 > ./meminfo<br>
 
