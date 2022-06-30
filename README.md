@@ -3,14 +3,12 @@
 
 ## How to use it?<br>
 ##### Open terminal and type following commands:
-> git clone https://github.com/SATYADAHAL/C-Programming/<br>
-> <br>
-> cd C-Programming <br>
-> <br>
-> gcc main.c -o meminfo<br>
-> <br>
-> ./meminfo<br>
-
+```
+git clone https://github.com/SATYADAHAL/C-Programming/
+cd C-Programming
+gcc main.c -o meminfo
+./meminfo
+```
 ###### Use Ctrl+C to quit the program.<br>
 #### Note:This program will not work on Windows or Mac OS.
 ### ScreentShot
